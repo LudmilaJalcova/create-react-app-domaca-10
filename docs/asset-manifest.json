@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.23c0c8fb.chunk.js",
-    "main.js.map": "/static/js/main.23c0c8fb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.83b81d8e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.83b81d8e.js.map",
-    "static/js/2.40fe6a65.chunk.js": "/static/js/2.40fe6a65.chunk.js",
-    "static/js/2.40fe6a65.chunk.js.map": "/static/js/2.40fe6a65.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.eb09548c3c1b7a19189b2928f797a1cb.js": "/precache-manifest.eb09548c3c1b7a19189b2928f797a1cb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.40fe6a65.chunk.js.LICENSE.txt": "/static/js/2.40fe6a65.chunk.js.LICENSE.txt"
+    "main.js": "/create-react-app-domaca-10/static/js/main.674f75f0.chunk.js",
+    "main.js.map": "/create-react-app-domaca-10/static/js/main.674f75f0.chunk.js.map",
+    "runtime-main.js": "/create-react-app-domaca-10/static/js/runtime-main.4fa67fe0.js",
+    "runtime-main.js.map": "/create-react-app-domaca-10/static/js/runtime-main.4fa67fe0.js.map",
+    "static/js/2.40fe6a65.chunk.js": "/create-react-app-domaca-10/static/js/2.40fe6a65.chunk.js",
+    "static/js/2.40fe6a65.chunk.js.map": "/create-react-app-domaca-10/static/js/2.40fe6a65.chunk.js.map",
+    "index.html": "/create-react-app-domaca-10/index.html",
+    "precache-manifest.fd0a40026fa358e3cdb5560a466700f0.js": "/create-react-app-domaca-10/precache-manifest.fd0a40026fa358e3cdb5560a466700f0.js",
+    "service-worker.js": "/create-react-app-domaca-10/service-worker.js",
+    "static/js/2.40fe6a65.chunk.js.LICENSE.txt": "/create-react-app-domaca-10/static/js/2.40fe6a65.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83b81d8e.js",
+    "static/js/runtime-main.4fa67fe0.js",
     "static/js/2.40fe6a65.chunk.js",
-    "static/js/main.23c0c8fb.chunk.js"
+    "static/js/main.674f75f0.chunk.js"
   ]
 }
